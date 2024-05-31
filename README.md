@@ -1,5 +1,5 @@
 
-# Project Work the Exam
+# Project Work
 
 Write an assembly code which will create similar outputs described and shown below.
 
