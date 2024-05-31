@@ -9,7 +9,7 @@ Write an assembly code which will create similar outputs described and shown bel
 
 3- Display your student number and decide education status either 'Morning' or 'Evening' education. Print to the screen. (Hint: CMP, INT)  
 
-#  Microprocessors Lab. Exam solutions
+#  Microprocessors 
 ## 1. Step
 
 ![1](https://github.com/CEN-214-Microprocessors-Lab/final-ibrahimgcm/assets/68804273/7cb046c0-5483-42e8-aa42-86c265cfed8c)
